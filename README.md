@@ -4,7 +4,7 @@
 
 [![Gem Version](https://badge.fury.io/rb/sixarm_ruby_string_index_after.svg)](http://badge.fury.io/rb/sixarm_ruby_string_index_after)
 [![Build Status](https://travis-ci.org/SixArm/sixarm_ruby_string_index_after.png)](https://travis-ci.org/SixArm/sixarm_ruby_string_index_after)
-[![Code Climate Maintainability](https://api.codeclimate.com/v1/badges/$id/maintainability)](https://codeclimate.com/github/SixArm/$dir/maintainability)
+[![Code Climate Maintainability](https://api.codeclimate.com/v1/badges/128c53cdf1d5fd0daabe/maintainability)](https://codeclimate.com/github/SixArm/sixarm_ruby_string_index_after/maintainability)
 [![Coverage Status](https://coveralls.io/repos/SixArm/sixarm_ruby_string_index_after/badge.svg?branch=master&service=github)](https://coveralls.io/github/SixArm/sixarm_ruby_string_index_after?branch=master)
 
 * Git: <https://github.com/sixarm/sixarm_ruby_string_index_after>
