@@ -4,14 +4,13 @@
 
 [![Gem Version](https://badge.fury.io/rb/sixarm_ruby_string_index_after.svg)](http://badge.fury.io/rb/sixarm_ruby_string_index_after)
 [![Build Status](https://travis-ci.org/SixArm/sixarm_ruby_string_index_after.png)](https://travis-ci.org/SixArm/sixarm_ruby_string_index_after)
-[![Code Climate Maintainability](https://api.codeclimate.com/v1/badges/128c53cdf1d5fd0daabe/maintainability)](https://codeclimate.com/github/SixArm/sixarm_ruby_string_index_after/maintainability)
-[![Coverage Status](https://coveralls.io/repos/SixArm/sixarm_ruby_string_index_after/badge.svg?branch=master&service=github)](https://coveralls.io/github/SixArm/sixarm_ruby_string_index_after?branch=master)
+[![Code Climate](https://api.codeclimate.com/v1/badges/128c53cdf1d5fd0daabe/maintainability)](https://codeclimate.com/github/SixArm/sixarm_ruby_string_index_after/maintainability)
 
-* Git: <https://github.com/sixarm/sixarm_ruby_string_index_after>
+* Git: <https://github.com/SixArm/sixarm_ruby_string_index_after>
 * Doc: <http://sixarm.com/sixarm_ruby_string_index_after/doc>
 * Gem: <https://rubygems.org/gems/sixarm_ruby_string_index_after>
 * Contact: Joel Parker Henderson, <joel@sixarm.com>
-* Project: [Changes](CHANGES.md), [License](LICENSE.md), [Contributing](CONTRIBUTING.md).
+* Project: [changes](CHANGES.md), [license](LICENSE.md), [contributing](CONTRIBUTING.md).
 
 <!--header-shut-->
 
@@ -21,23 +20,25 @@ String#index_after method to find the index position immediately after a match.
 
 
 
-<!--install-opent-->
+<!--install-open-->
 
 ## Install
 
 ### Gem
 
-Run this command in your shell or terminal:
+To install this gem in your shell or terminal:
 
-gem install sixarm_ruby_string_index_after
+    gem install sixarm_ruby_string_index_after
 
-Or add this to your Gemfile:
+### Gemfile
+
+To add this gem to your Gemfile:
 
     gem 'sixarm_ruby_string_index_after'
 
 ### Require
 
-To require this gem in your code:
+To require the gem in your code:
 
     require 'sixarm_ruby_string_index_after'
 
